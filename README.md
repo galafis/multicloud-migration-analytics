@@ -1,5 +1,9 @@
 # ☁️ Multi-Cloud Data Migration & Analytics Framework
 
+## 🖼️ Imagem Hero
+
+![Multi-Cloud Data Migration & Analytics Framework Hero Image](assets/hero_image.png)
+
 *[Português](#português) | [English](#english)*
 
 ---
@@ -498,44 +502,4 @@ source venv/bin/activate  # No Windows: venv\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
-
-4. **Gere dados de exemplo de migração**
-```bash
-cd src
-python migration_orchestrator.py
-```
-
-### 🔍 Principais Funcionalidades de Analytics
-
-**Analytics de Performance de Migração**
-- Rastreamento de progresso de migração em tempo real
-- Monitoramento de throughput e latência
-- Análise de taxa de erro e troubleshooting
-- Otimização de utilização de recursos
-- Monitoramento de compliance de SLA
-
-**Analytics de Custos**
-- Comparação e otimização de custos multi-cloud
-- Análise de TCO (Custo Total de Propriedade)
-- Rastreamento e previsão de orçamento
-- Alocação de custos e chargeback
-- Cálculo e relatório de ROI
-
-### 👨‍💻 Autor
-
-**Gabriel Demetrios Lafis**
-- GitHub: [@galafis](https://github.com/galafis)
-- Especializado em Arquitetura Multi-Cloud, Migração de Dados e Analytics Empresarial
-- Expert em AWS, GCP, Azure e Estratégias de Migração de Nuvem
-
-### 📄 Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
-### 🙏 Agradecimentos
-
-- Provedores de nuvem (AWS, GCP, Azure) pelas capacidades abrangentes de plataforma
-- HashiCorp pelas excelentes ferramentas de automação de infraestrutura
-- Apache Foundation pelos frameworks robustos de processamento de dados
-- Comunidade open source pelas ferramentas de migração e melhores práticas
 
